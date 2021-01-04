@@ -18,8 +18,8 @@ Check out the app here:
 
 ### Gallery
 
-![Desktop Version](https://github.com/nikhilpatel87/React-Music-Player/blob/main/public/desktop.png)
+![Desktop Version](https://github.com/nikhilpatel87/Waves-Music-Player/blob/main/public/desktop.png)
 
-![Active Library Toggled](https://github.com/nikhilpatel87/React-Music-Player/blob/main/public/active-library.png)
+![Active Library Toggled](https://github.com/nikhilpatel87/Waves-Music-Player/blob/main/public/active-library.png)
 
-![Mobile](https://github.com/nikhilpatel87/React-Music-Player/blob/main/public/mobile.png)
+![Mobile](https://github.com/nikhilpatel87/Waves-Music-Player/blob/main/public/mobile.png)
