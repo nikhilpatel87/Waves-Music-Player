@@ -1,0 +1,33 @@
+/** @format */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.App {
+	background: #fcdada;
+}
+h1,
+h2,
+h3,
+h4 {
+	color: #5c969e;
+}
+
+body {
+	font-family: 'Courgette', cursive;
+}
+
+.App {
+	transition: all 0.5s ease;
+}
+
+.library-active {
+	margin-left: 20rem;
+}
+
+@import './player';
+@import './song';
+@import './library';
+@import './nav';
